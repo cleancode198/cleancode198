@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @cleancode198
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cleancode198/cleancode198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+    <img src="/assets/images/undraw_version_control_re_mg66.svg" align="right" width="300" />
+    I am a passionate web and blockchain developer from Estonia. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://jinkong.netlify.com" target="_blank">contact me</a>.
+</p>
